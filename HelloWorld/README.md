@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic Hello World program using Python 3. This was created to demonstrate the integration of Visual Studio Code, GitHub, and Python 3. 
+This is a basic Hello World program using Python . This was created to demonstrate the integration of Visual Studio Code, GitHub, and Python . 
 
 Please use this link to watch a demonstration of this program: [Software Demo Video](fill link here)
 
